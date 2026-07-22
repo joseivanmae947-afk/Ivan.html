@@ -31,6 +31,9 @@ Sea lo que sea que pase, gracias por seguir ahí. Y si algún día quieres que n
 Tú sabes quién soy, el que nunca se olvidó de ti.
 
 </p>
+<img src="https://i.pinimg.com/736x/b1/81/e2/b181e20a285c24bf5e6f7c2857b8ac39.jpg" alt="TE AMO" width="500" height="300">
+</img>
+
 
 </body>
 </html>
